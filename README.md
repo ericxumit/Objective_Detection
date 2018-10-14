@@ -1,2 +1,2 @@
 # Objective_Detection
-# The first practice on Object Detection to understand the structures
+# To practice an example from classmate to better understand the object detection mechanism. 
